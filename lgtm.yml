@@ -1,3 +1,6 @@
+path_classifiers:
+  test:
+    - "src/readline/*"
 extraction:
   cpp:
     prepare:
